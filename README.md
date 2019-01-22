@@ -1,2 +1,2 @@
-# node-vue-wechhat-app
- 启动项目：npm run dev
+# node-vue-wechhat
+ 微信朋友圈
